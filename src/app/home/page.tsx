@@ -1,10 +1,11 @@
-import About from '@/src/Components/About'
-import CTA from '@/src/Components/CTA'
-import Detail from '@/src/Components/Detail'
-import Hero from '@/src/Components/Hero'
-import Navbar from '@/src/Components/Navbar'
-import Sentiment from '@/src/Components/Sentiment'
-import { TrendingCoins } from '@/src/Components/TrendingCoins'
+
+import About from '@/Components/About';
+import CTA from '@/Components/CTA';
+import Detail from '@/Components/Detail';
+import Hero from '@/Components/Hero';
+import Navbar from '@/Components/Navbar';
+import Sentiment from '@/Components/Sentiment';
+import { TrendingCoins } from '@/Components/TrendingCoins';
 import React from 'react'
 import { FaAnglesRight } from "react-icons/fa6";
 

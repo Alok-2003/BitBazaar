@@ -1,6 +1,6 @@
-import Navbar from '@/src/Components/Navbar';
 import React from 'react';
 import "./globals.css";
+import Navbar from '@/Components/Navbar';
 
 const LandingPage = () => {
   return (
